@@ -46,7 +46,7 @@ RFM (Recency, Frequency, Monetary) metrics were calculated to represent customer
 - **Frequency**: Number of unique orders  
 - **Monetary**: Total spending  
 
-```text
+``text
 Recency  → How recently a customer purchased  
 Frequency → How often a customer purchased  
 Monetary → How much a customer spent
